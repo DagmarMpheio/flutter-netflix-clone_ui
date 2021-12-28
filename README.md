@@ -26,5 +26,5 @@ Run flutter pub get
 ![Splash Screen 2](https://github.com/DagmarMpheio/flutter-netflix-clone/blob/main/screenshots/Screenshot_20211228-223955.jpg?raw=true)
 ![Splash Screen 3](https://github.com/DagmarMpheio/flutter-netflix-clone/blob/main/screenshots/Screenshot_20211228-223959.jpg?raw=true)
 ![Login Screen](https://github.com/DagmarMpheio/flutter-netflix-clone/blob/main/screenshots/Screenshot_20211228-224025.jpg?raw=true)
-![Dashboard 1](https://github.com/DagmarMpheio/flutter-netflix-clone/blob/main/screenshots/Screenshot_20211228-224043jpg?raw=true)
-![Dashboard 2](https://github.com/DagmarMpheio/flutter-netflix-clone/blob/main/screenshots/Screenshot_20211228-224058.jpg?raw=true
+![Dashboard 1](https://github.com/DagmarMpheio/flutter-netflix-clone/blob/main/screenshots/Screenshot_20211228-224043.jpg?raw=true)
+![Dashboard 2](https://github.com/DagmarMpheio/flutter-netflix-clone/blob/main/screenshots/Screenshot_20211228-224058.jpg?raw=true)
